@@ -8,7 +8,7 @@ https://stackoverflow.com/questions/5050588/how-in-boost-send-a-signal-in-a-thre
 */
 
 class IOService
-{
+{ 
 public:
   IOService() : m_worker(boost::asio::make_work_guard(m_service)) {}
   ~IOService() {}
