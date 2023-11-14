@@ -1,0 +1,5 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/g++-11",
+    "stm32-for-vscode.openOCDPath": false,
+    "stm32-for-vscode.armToolchainPath": false
+}
